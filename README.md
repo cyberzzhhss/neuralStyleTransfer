@@ -4,7 +4,9 @@ Simplified Torch implementation of the papers [Universal Style Transfer](https:/
 
 This is an unofficial implementation and it is heavily relied on [Photo WCT](https://github.com/vidursatija/PhotoWCT)
 
-The original implementation of [Universal Style Transfer](https://github.com/Yijunmaverick/UniversalStyleTransfer) and [A Closed-form Solution to Photorealistic Image Stylization](https://github.com/NVIDIA/FastPhotoStyle) are there <-
+The original implementation of [Universal Style Transfer](https://github.com/Yijunmaverick/UniversalStyleTransfer) and [A Closed-form Solution to Photorealistic Image Stylization](https://github.com/NVIDIA/FastPhotoStyle).
+
+Team member implementation [Joe Pei] (https://github.com/Joepei/cv_Final/)
 
 ## How to run it
 1. Download the decoders from the directories
